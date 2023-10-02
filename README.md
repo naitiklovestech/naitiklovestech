@@ -12,12 +12,12 @@ An engineering student majoring in CS from India<br><br>- Currently learning AI 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Lucifer-Overridden&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Hacktober Fest 2023
+[![An image of @luciferoverridden's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/luciferoverridden)](https://holopin.io/@luciferoverridden)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lucifer-Overridden&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <a href="https://app.daily.dev/Lucifer_"><img src="https://api.daily.dev/devcards/555857384fec4cc29c867d638cf720e0.png?r=w1q" width="400" alt="Naitik Singhal's Dev Card"/></a>
