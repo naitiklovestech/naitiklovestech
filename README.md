@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on PingMeSafe (Android app)(https://github.com/naitiklovestech/PingMeSafe)<br>👯 I’m looking to collaborate on Java backend systems<br>🤝 I’m looking for help with Android development<br>🌱 I’m currently learning Android development<br>⚡ Fun fact -> It all seems like a coding circus
+<h1 align="center">Hi 👋, I'm Naitik Singhal </h1>
+<h3 align="center">CSE Undergraduate From Graphic Era University, Dehradun</h3>
+
+<p align="center"> I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.</p>
+
+<h3 align="center">Tech Enthusiast | Java & Android Developer | Open-Source Contributor</h3> 
+
+- 🌱 I’m a **Java Developer** 
+
+- 📫 reach out to me at **singhalnaitik22@gmail.com**
+
+- ⚡ Fun fact **I am Passionate about solving real world problems**
 
 
 # ⚡️ GitHub Stats:
@@ -19,8 +29,16 @@
 ## Dev card
 <a href="https://app.daily.dev/Lucifer_"><img src="https://api.daily.dev/devcards/555857384fec4cc29c867d638cf720e0.png?r=w1q" width="400" alt="Naitik Singhal's Dev Card"/></a>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/luciferoverridden) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naitiklovestech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naitiklovestech) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/naitiklovestech) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@naitiklovestech) 
+## 🤝 Connect with me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/naitiklovestech/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/naitiklovestech" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:singhalnaitik22@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://twitter.com/Naitiklovestech" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> 
+<a href="https://www.instagram.com/naitiklovestech/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram"/></a> 
+<a href="[https://www.credly.com/users/rijans-bhagat/badges](https://www.credly.com/users/naitik-singhal/badges)" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white"/></a>
+</div>
 
 
 # 💻 Tech Stack:
