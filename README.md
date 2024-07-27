@@ -18,6 +18,12 @@
 [![naitiklovestech's GitHub | Languages Over Time](https://stats.quine.sh/naitiklovestech/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=naitiklovestech)
 [![naitiklovestech's GitHub | Topics Over Time](https://stats.quine.sh/naitiklovestech/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=naitiklovestech)
 
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/{{naitiklovestech}}/contributions?format=svg" width="350" title="Includes public contributions"/>
+    </a>
+</p>
+
 
 
 ## ✍️ Holopin badges
