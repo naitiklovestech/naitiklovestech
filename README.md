@@ -15,9 +15,6 @@
 # ⚡️ GitHub Stats:
 [![naitiklovestech's GitHub | Stats](https://stats.quine.sh/naitiklovestech/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=naitiklovestech)
 [![naitiklovestech's Stack Overflow | Stats](https://stats.quine.sh/naitiklovestech/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=naitiklovestech)
-[![naitiklovestech's GitHub | Languages Over Time](https://stats.quine.sh/naitiklovestech/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=naitiklovestech)
-[![naitiklovestech's GitHub | Topics Over Time](https://stats.quine.sh/naitiklovestech/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=naitiklovestech)
-
 
 
 
