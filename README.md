@@ -12,12 +12,6 @@
 - ⚡ Fun fact **I am Passionate about solving real world problems**
 
 
-# ⚡️ GitHub Stats:
-[![naitiklovestech's GitHub | Stats](https://stats.quine.sh/naitiklovestech/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=naitiklovestech)
-[![naitiklovestech's Stack Overflow | Stats](https://stats.quine.sh/naitiklovestech/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=naitiklovestech)
-
-
-
 ## ✍️ Holopin badges
 [![An image of @luciferoverridden's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/luciferoverridden)](https://holopin.io/@luciferoverridden)
 ---
