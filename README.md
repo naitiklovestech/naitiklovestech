@@ -5,11 +5,11 @@
 
 <h3 align="center">AI/ML Enthusiast | Native Android Developer | Java Backend Engineer</h3> 
 
-- 🌱 I’m a **Java Developer** 
+- 🌱 I’m a **Software Enthuiast** 
 
 - 📫 reach out to me at **singhalnaitik22@gmail.com**
 
-- ⚡ Fun fact **I am Passionate about solving real world problems**
+- ⚡ Fun fact **I am obsessed with startups and tech**
 
 
 ## ✍️ Holopin badges
