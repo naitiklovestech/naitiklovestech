@@ -3,14 +3,13 @@
 
 <p align="center"> I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.</p>
 
-<h3 align="center">AI/ML Enthusiast | Android Developer | Learning Web development</h3> 
+<h3 align="center">AI/ML Enthusiast | Android Developer | Learning Web deve</h3> 
 
 - 🌱 I’m a **Software Enthuiast** 
 
 - 📫 reach out to me at **singhalnaitik22@gmail.com**
 
 - ⚡ Fun fact **I am obsessed with startups and tech**
-
 
 ## Dev card
 <a href="https://app.daily.dev/lucifer_"><img src="https://api.daily.dev/devcards/v2/BH7R1KDSiWOBR2DfthHUe.png?type=default&r=22u" width="356" alt="Naitik Singhal's Dev Card"/></a>
