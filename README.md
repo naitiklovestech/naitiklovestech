@@ -12,12 +12,6 @@
 - ⚡ Fun fact **I am obsessed with startups and tech**
 
 
-## ✍️ Holopin badges
-[![An image of @luciferoverridden's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/luciferoverridden)](https://holopin.io/@luciferoverridden)
----
-[![](https://visitcount.itsvg.in/api?id=Lucifer-Overridden&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 ## Dev card
 <a href="https://app.daily.dev/lucifer_"><img src="https://api.daily.dev/devcards/v2/BH7R1KDSiWOBR2DfthHUe.png?type=default&r=22u" width="356" alt="Naitik Singhal's Dev Card"/></a>
 
