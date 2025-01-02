@@ -3,7 +3,7 @@
 
 <p align="center"> I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.</p>
 
-<h3 align="center">AI/ML Enthusiast | Native Android Developer | Java Backend Engineer</h3> 
+<h3 align="center">AI/ML Enthusiast | Android Developer | Learning Web development</h3> 
 
 - 🌱 I’m a **Software Enthuiast** 
 
