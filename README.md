@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Naitik Singhal </h1>
-<h3 align="center">CSE Undergraduate From Graphic Era University, Dehradun</h3>
+<h3 align="center">2026 CSE Undergraduate From Graphic Era University, Dehradun</h3>
 
 <p align="center"> I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.</p>
 
-<h3 align="center">AI/ML Enthusiast | Android Developer | Learning Flutter Development</h3> 
+<h3 align="center">Native Android Developer | Learning Java Development</h3> 
 
 - 🌱 I’m a **Software Enthuiast** 
 
 - 📫 reach out to me at **singhalnaitik22@gmail.com**
 
-- ⚡ Fun fact **I am obsessed with startups and tech**
+- ⚡ Fun fact **On my way to be a serial entrepreneur**
 
 ## 🤝 Connect with me
 
