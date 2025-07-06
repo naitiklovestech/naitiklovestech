@@ -61,30 +61,12 @@
 
 ---
 
-### 🐍 Watch My Contributions Come to Life
-
-<p align="center">
-  <img src="https://github.com/naitiklovestech/naitiklovestech/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-> 💡 Tip: Set up this snake animation in your profile repo’s GitHub Actions. I can help you automate this if you'd like!
-
----
-
 ### 🧩 Dev Card
 
 <p align="center">
   <a href="https://app.daily.dev/lucifer_">
     <img src="https://api.daily.dev/devcards/v2/BH7R1KDSiWOBR2DfthHUe.png?type=default&r=22u" width="356" alt="Naitik Singhal's Dev Card"/>
   </a>
-</p>
-
----
-
-### 🏙️ My GitHub Skyline
-
-<p align="center">
-  <a href="https://skyline.github.com/naitiklovestech/2024"><img src="https://img.shields.io/badge/🌆%20View%20My%20Skyline-2024-blueviolet?style=for-the-badge" /></a>
 </p>
 
 ---
