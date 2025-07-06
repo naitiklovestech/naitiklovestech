@@ -1,50 +1,77 @@
-<h1 align="center">Hi 👋, I'm Naitik Singhal</h1>
-<h3 align="center">CSE Undergraduate | Class of 2026 | Graphic Era University, Dehradun</h3>
+<h1 align="center">Hey 👋, I'm Naitik Singhal</h1>
+<h3 align="center">CSE'26 | Android & Python Developer | Tech Explorer | Entrepreneur at Heart</h3>
 
 <p align="center"><i>"Learning endlessly, building passionately, and contributing meaningfully."</i></p>
-
-<h3 align="center">Android & Python Developer | Java Development Enthusiast | Tech Explorer</h3>
 
 ---
 
 ### 💡 About Me
 
-- 👨‍💻 I’m a **Software Development Enthusiast** with a deep interest in solving real-world problems through code.
-- 📱 Currently focusing on **Native Android development** using Kotlin and XML.
-- 🐍 Comfortable building backend tools and scripts using **Python**.
-- ☕ Exploring the world of **Java and Spring Boot** for full-stack application development.
-- 🚀 Passionate about startups, product thinking, and building MVPs.
-- 📫 Reach out: **singhalnaitik22@gmail.com**
-- ⚡ Fun fact: **I aim to be a serial entrepreneur, one meaningful project at a time.**
+- 🔭 Building Native Android apps with **Kotlin** and Firebase
+- 🐍 Automating & analyzing things with **Python**
+- ☕ Learning **Java + Spring Boot** for full-stack dev
+- 🚀 Passionate about startups, MVPs & building from 0 → 1
+- 📫 Email me: **singhalnaitik22@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+### ⚡ Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/naitiklovestech/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/naitiklovestech" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:singhalnaitik22@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Naitiklovestech" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/naitiklovestech/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/users/naitik-singhal/badges" target="_blank">
-    <img alt="Credly" src="https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/naitiklovestech/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/naitiklovestech" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:singhalnaitik22@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/Naitiklovestech" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/naitiklovestech/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
-### 📈 Dev Card
+### 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,python,firebase,vscode,linux,git,github,figma" />
+</p>
+
+---
+
+### 🧠 Currently Exploring
+
+- Jetpack Compose ✨
+- Spring Boot & REST APIs ☕
+- On-device ML & ARCore 🤖
+- Real-time IoT Dashboards 🌐
+
+---
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naitiklovestech&show_icons=true&theme=tokyonight&count_private=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitiklovestech&layout=compact&theme=tokyonight" width="320"/>
+</p>
+
+---
+
+### 🕸️ GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naitiklovestech&theme=react-dark&bg_color=1a1b27&color=00FFFF&line=00FFFF&point=FFFFFF" />
+</p>
+
+---
+
+### 🐍 Watch My Contributions Come to Life
+
+<p align="center">
+  <img src="https://github.com/naitiklovestech/naitiklovestech/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+> 💡 Tip: Set up this snake animation in your profile repo’s GitHub Actions. I can help you automate this if you'd like!
+
+---
+
+### 🧩 Dev Card
 
 <p align="center">
   <a href="https://app.daily.dev/lucifer_">
@@ -54,27 +81,12 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🏙️ My GitHub Skyline
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,firebase,git,github,figma,vscode,linux" />
+  <a href="https://skyline.github.com/naitiklovestech/2024"><img src="https://img.shields.io/badge/🌆%20View%20My%20Skyline-2024-blueviolet?style=for-the-badge" /></a>
 </p>
 
 ---
 
-### 🧠 Currently Exploring
-
-- 📲 Advanced Android Animations and Jetpack Compose
-- 🌐 Java + Spring Boot for full-stack development
-- 🧠 AI + Mobile Integration (on-device ML)
-- 💼 Building robust, scalable MVPs
-
----
-
-### 🙌 Let's Collaborate
-
-I'm always open to collaborating on meaningful projects, hackathons, or community initiatives. Feel free to reach out if you think we can build something impactful together!
-
----
-
-<p align="center">✨ Thank you for visiting my GitHub! Keep building and never stop learning. 🚀</p>
+<p align="center">✨ Thanks for scrolling down! Let's connect, collaborate, and create amazing things 🚀</p>
