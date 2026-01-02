@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Naitik Singhal</h1>
-<h3 align="center">CSE'26 | Android & Python Developer | Tech Explorer | Entrepreneur at Heart</h3>
+<h3 align="center">CSE'26 | Java Full Stack developer | Android and Flutter | Entrepreneur at Heart</h3>
 
 <p align="center"><i>"Learning endlessly, building passionately, and contributing meaningfully."</i></p>
 
@@ -8,7 +8,6 @@
 ### 💡 About Me
 
 - 🔭 Building Native Android apps with **Kotlin** and Firebase
-- 🐍 Automating & analyzing things with **Python**
 - ☕ Learning **Java + Spring Boot** for full-stack dev
 - 🚀 Passionate about startups, MVPs & building from 0 → 1
 - 📫 Email me: **singhalnaitik22@gmail.com**
@@ -39,8 +38,6 @@
 
 - Jetpack Compose ✨
 - Spring Boot & REST APIs ☕
-- On-device ML & ARCore 🤖
-- Real-time IoT Dashboards 🌐
 
 ---
 
